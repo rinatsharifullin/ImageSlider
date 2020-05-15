@@ -1,1 +1,1 @@
-https://rinatsharifullin.github.io/ImageSlider
+https://rinatsharifullin.github.io/ImageSlider/
